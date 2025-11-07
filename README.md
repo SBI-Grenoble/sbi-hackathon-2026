@@ -1,10 +1,13 @@
-# Simulation-Based Inference Hackathon 2026
+# SBI Hackathon @ Grenoble 2026
 
-Welcome to the **Simulation-Based Inference (SBI) Hackathon 2026** — a three-day, hands-on event dedicated to exploring modern Bayesian inference tools for complex scientific simulators.
+Welcome to the **Simulation-Based Inference (SBI) Hackathon in Grenoble** — a three-day, hands-on event dedicated to exploring modern Bayesian inference tools for complex scientific simulators.
 
 **📅 Dates:** 21-23 January 2026  
+
 **📍 Location:** IMAG building, Université Grenoble Alpes campus, Grenoble, France
+
 **🧩 Duration:** 3 days (1.5 days tutorial + 1.5 days hackathon)  
+
 **👥 Target audience:** researchers, students, and practitioners interested in parameter estimation, model calibration, or uncertainty quantification in physical, biological, or engineering simulations.
 
 ---
