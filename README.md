@@ -10,6 +10,8 @@ Welcome to the **Simulation-Based Inference (SBI) Hackathon in Grenoble** — a 
 
 **👥 Target audience:** researchers, students, and practitioners interested in parameter estimation, model calibration, or uncertainty quantification in physical, biological, or engineering simulations.
 
+**Registration:** Free, but limited spots. Please register [here](https://forms.gle/tVW5mf9Pd8Tyxruu5) by 31 December 2025.
+
 ---
 
 ## 🔍 Motivation
@@ -53,9 +55,6 @@ We will take inspiration from successful open hackathons such as the [IGE-Jaxath
 ## 💬 Contact & Updates
 
 Organized by the [SBI4C chair](https://sbi4c.inria.fr/) from the MIAI institute.
-
-For updates and registration:  
-👉 [link to registration form – coming soon]
 
 Stay tuned and get ready to bring your simulator, your curiosity, and your questions!
 
