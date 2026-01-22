@@ -10,3 +10,4 @@ The list below repertoriates the different models proposed by the participants o
 - [Nicola Zomer — Voyage simulator for weather routing under uncertainty](/models/voyage-weather-routing/)
 - [Vadim Bertrand — PASTAX: SDE/ODE simulator for ocean-surface drifting trajectories](/models/pastax-ocean-drifters-sde/)
 - [Alexandre Loret — Matérn Gaussian Process spatiotemporal simulator (advection / separability)](/models/matern-gaussian-process-matern-spatiotemporal/)
+- [Oleksii Kurdysh — SBI integration into di-Higgs search workflow](/models/dihiggs/)
