@@ -11,3 +11,4 @@ The list below repertoriates the different models proposed by the participants o
 - [Vadim Bertrand — PASTAX: SDE/ODE simulator for ocean-surface drifting trajectories](/models/pastax-ocean-drifters-sde/)
 - [Alexandre Loret — Matérn Gaussian Process spatiotemporal simulator (advection / separability)](/models/matern-gaussian-process-matern-spatiotemporal/)
 - [Oleksii Kurdysh — SBI integration into di-Higgs search workflow](/models/dihiggs/)
+- [Pavel Kavrigin — Prompt-Gamma Time Imaging](/models/prompt-gamma-time-imaging/)
